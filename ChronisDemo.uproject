@@ -17,12 +17,12 @@
 		},
 		{
 			"Name": "EasyUtilityAI",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "https://www.unrealengine.com/marketplace/product/easy-utility-ai"
 		},
 		{
 			"Name": "Indectis",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/231b3fb1-7d82-4789-8b50-9766c2538955"
 		}
 	]
