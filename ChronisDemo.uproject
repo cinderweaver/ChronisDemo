@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.4",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "Chronis",
+			"Enabled": true
+		},
+		{
+			"Name": "EasyUtilityAI",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.unrealengine.com/marketplace/product/easy-utility-ai"
+		},
+		{
+			"Name": "Indectis",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/231b3fb1-7d82-4789-8b50-9766c2538955"
+		}
+	]
+}
